@@ -50,7 +50,7 @@ Ming is an incoming Ph.D. student at the Chinese University of Hong Kong (CUHK).
 - [<b>NeurIPS &#39;24</b>] [**ComBack: A Versatile Dataset for Enhancing Compiler Backend Development Efficiency.**](https://neurips.cc/virtual/2024/poster/97455)
     
    **M. Zhong**, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
-   <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems, Dataset & Benchmark Track (NeurIPS D&B Track), 2024. (CORE: A*)</p>
+   <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (CORE: A*)</p>
 
 - [<b>ISSRE &#39;23</b>] [**OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing.**](https://ieeexplore.ieee.org/document/10301269)
     
