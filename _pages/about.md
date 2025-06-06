@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is an incoming Ph.D. student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on the intersection of cutting-edge technologies (e.g., quantum computing, large language models) and compilers.
+Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on the intersection of cutting-edge technologies (e.g., quantum computing, large language models) and compilers.
 
 # 📖 Educations
 - *2025.08 (Expected) -*, **The Chinese University of Hong Kong**, Hong Kong SAR, China.
@@ -84,7 +84,7 @@ Ming is an incoming Ph.D. student at the Chinese University of Hong Kong (CUHK).
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Working Experience
+- *2024.09 - 2025.05*, Research Assistant, **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
