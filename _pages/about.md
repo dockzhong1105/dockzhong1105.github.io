@@ -76,10 +76,10 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
 # 🎖 Honors and Awards
 <!-- - *2022.9* First Class Academic Scholarship in Chinese Academy of Sciences.
 - *2021.12* Excellent Undergraduate Graduation Thesis in Beijing. -->
-- *2020.10* National Scholarship. 
+- National Scholarship. 
 
 # 🌟 Miscellaneous
-- IELTS: Overall 8.0
+- IELTS: Overall 8.0 (Listening 9.0, Reading 8.5, Writing 7.5, Speaking 6.0).
 
 
 <!-- # 💬 Invited Talks
