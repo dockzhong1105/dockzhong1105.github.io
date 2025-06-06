@@ -45,7 +45,7 @@ Ming is an incoming Ph.D. student at the Chinese University of Hong Kong (CUHK).
 - [<b>SANER &#39;25</b>] [**Boosting Large Language Models for System Software Retargeting: A Preliminary Study.**](https://ieeexplore.ieee.org/abstract/document/10992492)
     
    **M. Zhong**, F. Lv, L. Wang, L. Qiu, H. Geng, H. Cui, X. Feng
-   <p style="color:#44b389"> IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering, Early Research Achievement Track (SANER ERA Track), 2025. (CORE: A)</p>
+   <p style="color:#44b389"> IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering, 2025. (CORE: A)</p>
 
 - [<b>NeurIPS &#39;24</b>] [**ComBack: A Versatile Dataset for Enhancing Compiler Backend Development Efficiency.**](https://neurips.cc/virtual/2024/poster/97455)
     
