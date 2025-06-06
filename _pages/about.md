@@ -79,7 +79,7 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
 - *2020.10* National Scholarship. 
 
 # 🌟 Miscellaneous
-- IELTS: Overall 8.0 (Top 1% in China mainland)
+- IELTS: Overall 8.0
 
 
 <!-- # 💬 Invited Talks
