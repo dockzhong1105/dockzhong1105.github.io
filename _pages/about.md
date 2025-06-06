@@ -87,4 +87,4 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
 
 # 💻 Working Experience
-- *2024.09 - 2025.05*, Research Assistant, **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
+- *2024.09 - 2025.05*, Research Assistant, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.
