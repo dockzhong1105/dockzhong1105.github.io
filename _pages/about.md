@@ -26,12 +26,11 @@ Ming is an incoming Ph.D. student at the Chinese University of Hong Kong (CUHK).
 
 - *2021.09 - 2024.06*, **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
   - M.S. in Computer System and Architecture
-  <!-- - GPA: 3.91 / 4.0 (91.35 / 100)
-  - Rank: 2 / 344 -->
+
+
 - *2017.09 - 2021.06*, **Beijing University of Posts and Telecommmunications**, Beijing, China.
   - B.S. in Computer Science and Technology
-  <!-- - GPA: 3.78 / 4.0 (91.29 / 100)
-  - Rank: 10 / 383 -->
+
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
