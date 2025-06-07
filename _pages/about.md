@@ -20,7 +20,7 @@ redirect_from:
 Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on the intersection of cutting-edge technologies (e.g., quantum computing, large language models) and compilers.
 
 # 📖 Educations
-- *2025.08 (Expected) -*, **The Chinese University of Hong Kong**, Hong Kong SAR, China.
+- *2025.08 (Expected) -*, **The Chinese University of Hong Kong**, Hong Kong, China.
   - Ph.D in Computer Science and Engineering
 
 
@@ -40,27 +40,27 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
 - [<b>CGO &#39;25</b>] [**VEGA: Automatically Generating Compiler Backends Using a Pre-Trained Transformer Model.**](https://dl.acm.org/doi/10.1145/3696443.3708931)
     
    **M. Zhong**, F. Lv, L. Wang, L. Qiu, Y. Wang, Y. Liu, H. Cui, X. Feng, J. Xue
-   <p style="color:#44b389"> ACM/IEEE 23rd International Symposium of Code Generation and Optimization (CGO), 2025. (CORE: A)</p>
+   <p style="color:#44b389"> ACM/IEEE 23rd International Symposium of Code Generation and Optimization, 2025. (CORE: A)</p>
 
 - [<b>SANER &#39;25</b>] [**Boosting Large Language Models for System Software Retargeting: A Preliminary Study.**](https://ieeexplore.ieee.org/abstract/document/10992492)
     
    **M. Zhong**, F. Lv, L. Wang, L. Qiu, H. Geng, H. Cui, X. Feng
-   <p style="color:#44b389"> IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering (SANER), 2025. (CORE: A)</p>
+   <p style="color:#44b389"> IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering, 2025. (CORE: A)</p>
 
 - [<b>NeurIPS &#39;24</b>] [**ComBack: A Versatile Dataset for Enhancing Compiler Backend Development Efficiency.**](https://neurips.cc/virtual/2024/poster/97455)
     
    **M. Zhong**, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
-   <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. (CORE: A*)</p>
+   <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems, 2024. (CORE: A*)</p>
 
 - [<b>ISSRE &#39;23</b>] [**OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing.**](https://ieeexplore.ieee.org/document/10301269)
     
    H. Geng, **M. Zhong**, P. Zhang, F. Lv, X. Feng
-   <p style="color:#44b389"> IEEE 34rd International Symposium on Software Reliability Engineering (ISSRE), 2023. (CORE: A)</p>
+   <p style="color:#44b389"> IEEE 34rd International Symposium on Software Reliability Engineering, 2023. (CORE: A)</p>
 
 - [<b>JCST &#39;23</b>] [**Automatic Target Description File Generation.**](https://dl.acm.org/doi/abs/10.1007/s11390-022-1919-x)
     
    H. Geng, F. Lv, **M. Zhong**, H. Cui, J. Xue, X. Feng
-   <p style="color:#44b389"> Journal of Computer Science and Technology (JCST), 2023. (CORE: B)</p>
+   <p style="color:#44b389"> Journal of Computer Science and Technology, 2023. (CORE: B)</p>
 
 
 
