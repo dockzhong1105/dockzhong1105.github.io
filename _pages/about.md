@@ -21,15 +21,15 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
 
 # 📖 Educations
 - *2025.08 (Expected) -*, **The Chinese University of Hong Kong**, Hong Kong, China.
-  - Ph.D in Computer Science and Engineering
+  - Ph.D in Computer Science and Engineering.
 
 
 - *2021.09 - 2024.06*, **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
-  - M.S. in Computer System and Architecture
+  - M.S. in Computer System and Architecture.
 
 
 - *2017.09 - 2021.06*, **Beijing University of Posts and Telecommmunications**, Beijing, China.
-  - B.S. in Computer Science and Technology
+  - B.S. in Computer Science and Technology.
 
 
 <!-- # 🔥 News
