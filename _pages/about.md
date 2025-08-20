@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on the intersection of cutting-edge technologies (e.g., quantum computing, large language models) and compilers.
+Ming is a Ph.D student at the Chinese University of Hong Kong (CUHK) advised by professor [Zhiding Liang](https://www.innovationadvancedlab.com/team). Ming's research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers.
 
 # 📖 Educations
-- *2025.08 (Expected) -*, **The Chinese University of Hong Kong**, Hong Kong, China.
+- *2025.08 -*, **The Chinese University of Hong Kong**, Hong Kong, China.
   - Ph.D in Computer Science and Engineering.
 
 
@@ -37,6 +37,13 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+- [<b>TOSEM &#39;25</b>] [**BePilot: An AI Programming Assistant for Compiler Backend Development.**](xxxxx)
+    
+   **M. Zhong**, X. Sun, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
+   <p style="color:#44b389"> ACM Transactions on Software Engineering and Methodology, 2025. (CORE: A*)</p>
+
+
 - [<b>CGO &#39;25</b>] [**VEGA: Automatically Generating Compiler Backends Using a Pre-Trained Transformer Model.**](https://dl.acm.org/doi/10.1145/3696443.3708931)
     
    **M. Zhong**, F. Lv, L. Wang, L. Qiu, Y. Wang, Y. Liu, H. Cui, X. Feng, J. Xue
@@ -51,6 +58,11 @@ Ming is an incoming Ph.D student at the Chinese University of Hong Kong (CUHK). 
     
    **M. Zhong**, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
    <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems, 2024. (CORE: A*)</p>
+
+- [<b>ICONIP &#39;25</b>] [**RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.**](xxxx)
+    
+   L. Qiu, F. Lv, **M. Zhong**, L. Wang,  X. Feng
+   <p style="color:#44b389"> 32nd International Conference on Neural Information Processing, 2025. (CORE: B)</p>
 
 - [<b>ISSRE &#39;23</b>] [**OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing.**](https://ieeexplore.ieee.org/document/10301269)
     
