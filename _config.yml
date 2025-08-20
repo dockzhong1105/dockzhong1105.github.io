@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ming Zhong"
   avatar           : "./images/avatar.png"
-  bio              : "Incoming Ph.D Student At CUHK"
-  location         : "Hong Kong, China"
+  bio              : "CS Ph.D Student At CUHK"
+  location         : "Hong Kong, SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MA5nMrkAAAAJ"
