@@ -93,7 +93,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 - National Scholarship. 
 
 # 🌟 Miscellaneous
-- International English Language Testing System (IELTS): Overall 8.0 (Listening 9.0, Reading 8.5, Writing 7.5, Speaking 6.0).
+- International English Language Testing System (IELTS): Overall 8.0.
 
 
 <!-- # 💬 Invited Talks
