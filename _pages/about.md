@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is a Ph.D student at the Chinese University of Hong Kong (CUHK) advised by professor [Zhiding Liang](https://www.innovationadvancedlab.com/team). Ming's research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers.
+Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK) advised by professor [Zhiding Liang](https://www.innovationadvancedlab.com/team). Ming's research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers.
 
 # 📖 Educations
 - *2025.08 -*, **The Chinese University of Hong Kong**, Hong Kong, SAR.
@@ -101,6 +101,9 @@ Ming is a Ph.D student at the Chinese University of Hong Kong (CUHK) advised by 
 # 💻 Working Experience
 - *2024.09 - 2025.05*, Research Assistant, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.
 
+   - **Clarification**: I was supposed to begin my Ph.D. studies at The University of New South Wales (UNSW) in Australia in Fall 2024. However, due to the [High-Risk School List](https://en.wikipedia.org/wiki/Proclamation_10043), I did not receive a student visa in time for the Fall 2024 semester and thus was unable to enroll. As a result, I continued working as a research assistant at the Institute of Computing Technology, until I decided to pursue my Ph.D. degree in Hong Kong.
+
+   - **Some reflections**: People often say that a speck of dust in the era, when it falls on an individual, becomes a mountain. But I believe that *sometimes a small but firm conviction can carry you a very long way*. Therefore, we should calmly accept what we cannot change and strive to change what we can. These setbacks, too, will eventually become a valuable asset in life.
 
 
 <a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
