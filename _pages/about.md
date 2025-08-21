@@ -105,7 +105,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
    - **Clarification**: I was supposed to begin my Ph.D. studies at The University of New South Wales (UNSW) in Fall 2024. However, due to the [High-Risk University List](https://en.wikipedia.org/wiki/Proclamation_10043), I did not receive a student visa in time and was unable to enroll. Consequently, I continued as a research assistant at Institute of Computing Technology (ICT), until I decided to pursue my Ph.D. degree in Hong Kong. I am deeply grateful to Professors Xiaobing Feng and Fang Lv at ICT for their support during this gap period, and I sincerely regret not being able to pursue my studies at UNSW.
 
-   - **Some reflections**: People often say that a speck of dust in the era, when it falls on an individual, becomes a mountain. But I believe that **_sometimes a small but firm conviction can carry one a very long way_**. Therefore, one should calmly accept what cannot be changed and strive to change what can be changed. These setbacks, too, will eventually become a valuable asset in life.
+   - **Some reflections**: People often say that a speck of dust in the era, when it falls on an individual, becomes a mountain. But I believe that **_sometimes a small but firm conviction can carry one a very long way, even across that mountain_**. Therefore, one should calmly accept what cannot be changed and strive to change what can be changed. These setbacks, too, will eventually become a valuable asset in life.
 
 
 <a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
