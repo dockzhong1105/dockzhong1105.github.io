@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers. My detailed resume can be found <a href="docs/pdf/resume_Ming.pdf"> here.
+Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers. My detailed resume can be found <a href="../docs/pdf/resume_Ming.pdf"> here.
 
 # 📖 Educations
 - *2025.08 - Now*, **The Chinese University of Hong Kong**, Hong Kong, SAR.
@@ -26,12 +26,12 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
 
 - *2021.09 - 2024.06*, **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
-  - M.S. in Computer System and Architecture (GPA Ranking: 2/344).
+  - M.S. in Computer System and Architecture.
   - Advised by Professors [Xiaobing Feng](https://people.ucas.ac.cn/~fengxiaobing) and [Fang Lv](https://lvfang1109.github.io/).
 
 
 - *2017.09 - 2021.06*, **Beijing University of Posts and Telecommmunications**, Beijing, China.
-  - B.S. in Computer Science and Technology (GPA Ranking: 10/383).
+  - B.S. in Computer Science and Technology.
 
 
 <!-- # 🔥 News
@@ -87,7 +87,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 <!-- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🎖 Awards
 <!-- - *2022.9* First Class Academic Scholarship in Chinese Academy of Sciences.
 - *2021.12* Excellent Undergraduate Graduation Thesis in Beijing. -->
 - National Scholarship. 
