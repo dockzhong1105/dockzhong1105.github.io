@@ -17,7 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers. My detailed resume can be found <a href="files/resume_Ming.pdf"> here.
+Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers. My detailed resume can be found <a id="cv-link" href="files/resume_Ming.pdf" target="_blank"><b>here.</b></a>
+<small> Downloads: <span id="cv-count">0</span></small>
+
+<script>
+(function () {
+  const NS = "dockzhong1105.github.io"; 
+  const KEY = "cv_downloads";      
+
+  const countEl = document.getElementById("cv-count");
+  const linkEl  = document.getElementById("cv-link");
+
+  // 读取当前计数
+  fetch("https://api.countapi.xyz/get/" + encodeURIComponent(NS) + "/" + encodeURIComponent(KEY))
+    .then(r => r.json())
+    .then(d => { if (typeof d.value === "number") countEl.textContent = d.value; })
+    .catch(() => { /* 静默失败即可 */ });
+
+  // 点击时自增并更新显示
+  linkEl.addEventListener("click", function () {
+    fetch("https://api.countapi.xyz/hit/" + encodeURIComponent(NS) + "/" + encodeURIComponent(KEY))
+      .then(r => r.json())
+      .then(d => { if (typeof d.value === "number") countEl.textContent = d.value; })
+      .catch(() => { /* 忽略错误，不影响下载 */ });
+  });
+})();
+</script>
+
 
 # 📖 Educations
 - *2025.08 - Now*, **The Chinese University of Hong Kong**, Hong Kong, SAR.
