@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers. My detailed resume can be found <a id="cv-link" href="files/resume_Ming.pdf" target="_blank"><b>here</b></a>.
+Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on a series of projects on LLMs for traditional compiler construction, and his current main research interest is quantum compilers. His detailed resume can be found <a id="cv-link" href="files/resume_Ming.pdf" target="_blank"><b>here</b></a>.
 
 
 # 📖 Educations
