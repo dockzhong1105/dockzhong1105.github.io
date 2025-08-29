@@ -41,7 +41,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
 # 📝 Publications 
 
-- [<b>TOSEM &#39;25</b>] [**BePilot: An AI Programming Assistant for Compiler Backend Development.**](xxxxx)
+- [<b>TOSEM &#39;25</b>] [**BePilot: An AI Programming Assistant for Compiler Backend Development.**](https://dl.acm.org/doi/10.1145/3764585)
     
    **M. Zhong**, X. Sun, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
    <p style="color:#44b389"> ACM Transactions on Software Engineering and Methodology, 2025. (CORE: A*)</p>
