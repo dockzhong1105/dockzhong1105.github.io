@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ming Zhong"
-  avatar           : "./images/avatar.jpg"
+  avatar           : "./images/avatar2.jpg"
   bio              : "CS Ph.D Student At CUHK"
   location         : "Hong Kong, SAR"
   employer         :
