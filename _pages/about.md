@@ -69,6 +69,13 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
    **M. Zhong**, X. Sun
    <p style="color:#44b389"> 32nd Asia-Pacific Software Engineering Conference, 2025. (CORE: C)</p>
 
+
+- [<b>NeurIPS &#39;25</b>] [**IR-OptSet: An Optimization-Sensitive Dataset for Advancing LLM-Based IR Optimizer.**](https://xxxxx)
+    
+   Z. Yang, L. Qiu, F. Lv, **M. Zhong**,  Z. Chai, H. Zhou, H. Cui, X. Feng
+   <p style="color:#44b389"> 39th Annual Conference on Neural Information Processing Systems, 2025. (CORE: A*)</p>
+
+
 - [<b>ICONIP &#39;25</b>] [**RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.**](xxxx)
     
    L. Qiu, F. Lv, **M. Zhong**, L. Wang,  X. Feng
