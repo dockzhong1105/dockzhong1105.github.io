@@ -57,17 +57,17 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
    **M. Zhong**, F. Lv, L. Wang, L. Qiu, H. Geng, H. Cui, X. Feng
    <p style="color:#44b389"> IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering, 2025. (CORE: A)</p>
 
-- [<b>APSEC &#39;25</b>] [**Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.**](xxxx)
-    
-   **M. Zhong**, X. Sun
-   <p style="color:#44b389"> 32nd Asia-Pacific Software Engineering Conference, 2025. (CORE: C)</p>
+
 
 - [<b>NeurIPS &#39;24</b>] [**ComBack: A Versatile Dataset for Enhancing Compiler Backend Development Efficiency.**](https://neurips.cc/virtual/2024/poster/97455)
     
    **M. Zhong**, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
    <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems, 2024. (CORE: A*)</p>
 
-
+- [<b>APSEC &#39;25</b>] [**Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.**](xxxx)
+    
+   **M. Zhong**, X. Sun
+   <p style="color:#44b389"> 32nd Asia-Pacific Software Engineering Conference, 2025. (CORE: C)</p>
 
 - [<b>ICONIP &#39;25</b>] [**RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.**](xxxx)
     
