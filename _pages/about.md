@@ -23,7 +23,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 # 📖 Educations
 - *2025.08 - Now*, **The Chinese University of Hong Kong**, Hong Kong, SAR.
   - Ph.D student in Computer Science and Engineering.
-  - Advised by Professor [Zhiding Liang](https://www.innovationadvancedlab.com/team).
+  - Advised by Professor [Zhiding Liang](https://www.innovationadvancedlab.com).
 
 
 - *2021.09 - 2024.06*, **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
