@@ -64,10 +64,10 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
    **M. Zhong**, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng
    <p style="color:#44b389"> 38th Annual Conference on Neural Information Processing Systems, 2024. (CORE: A*)</p>
 
-- [<b>APSEC &#39;25</b>] [**Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.**](xxxx)
+<!-- - [<b>APSEC &#39;25</b>] [**Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.**](xxxx)
     
    **M. Zhong**, X. Sun
-   <p style="color:#44b389"> 32nd Asia-Pacific Software Engineering Conference, 2025. (CORE: C)</p>
+   <p style="color:#44b389"> 32nd Asia-Pacific Software Engineering Conference, 2025. (CORE: C)</p> -->
 
 
 - [<b>NeurIPS &#39;25</b>] [**IR-OptSet: An Optimization-Sensitive Dataset for Advancing LLM-Based IR Optimizer.**](https://xxxxx)
