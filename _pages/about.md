@@ -137,7 +137,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
     <li>
       <b>[ICONIP &#39;25]</b> <a href="xxxxx"><b>RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.</b></a><br>
       <span>L. Qiu, F. Lv, <b>M. Zhong</b>,  L. Wang, X. Feng</span><br>
-      <span style="color:#44b389">32nd International Conference on Neural Information Processing, 2025. (CORE: B)</span>
+      <span style="color:#44b389">32nd International Conference on Neural Information Processing, 2025. (CORE B)</span>
     </li>
 
     <li>
@@ -160,13 +160,13 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
     <li>
       <b>[ISSRE &#39;23]</b> <a href="https://ieeexplore.ieee.org/document/10301269"><b>OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing.</b></a><br>
       <span>H. Geng, <b>M. Zhong</b>, P. Zhang, F. Lv, X. Feng</span><br>
-      <span style="color:#44b389">IEEE 34rd International Symposium on Software Reliability Engineering, 2023. (CORE: A)</span>
+      <span style="color:#44b389">IEEE 34rd International Symposium on Software Reliability Engineering, 2023. (CORE A)</span>
     </li>
 
     <li>
       <b>[JCST &#39;23]</b> <a href="https://dl.acm.org/doi/abs/10.1007/s11390-022-1919-x"><b>Automatic Target Description File Generation.</b></a><br>
       <span>H. Geng, F. Lv, <b>M. Zhong</b>, H. Cui, J. Xue, X. Feng</span><br>
-      <span style="color:#44b389">Journal of Computer Science and Technology, 2023. (CORE: B)</span>
+      <span style="color:#44b389">Journal of Computer Science and Technology, 2023. (CORE B)</span>
     </li>
   </ul>
 </div>
