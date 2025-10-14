@@ -154,9 +154,9 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
 <div id="we-notes" style="display:none;">
   <ul style="margin: 0 0 0 1.25rem;">
-    <li><b>Clarification</b>: I was supposed to begin my Ph.D. studies at The University of New South Wales (UNSW) in Fall 2024. However, due to the <a href="https://en.wikipedia.org/wiki/Proclamation_10043">High-Risk University List</a>, I did not receive a student visa in time and was unable to enroll. Consequently, I continued as a research assistant at Institute of Computing Technology (ICT), until I decided to pursue my Ph.D. degree in Hong Kong.
-    <br><i>I am deeply grateful to Professors Xiaobing Feng and Fang Lv at ICT for their support during this anxious gap period, and I sincerely regret not being able to pursue my studies at UNSW.</i></li>
-    <li><b>Some Reflections</b>: People often say that a speck of dust in the era, when it falls on an individual, becomes a mountain. But I believe that <i>sometimes a small but firm conviction can carry one a very long way, even across that mountain</i>. So, please accept what can not be changed and strive to change what can be changed. Even these bleak and trying days will eventually become a valuable asset in one's life.</li>
+    <li><b>Clarification</b>. I was supposed to begin my Ph.D. studies at The University of New South Wales (UNSW) in Fall 2024. However, due to the <a href="https://en.wikipedia.org/wiki/Proclamation_10043">High-Risk University List</a>, I did not receive a student visa in time and was unable to enroll. Consequently, I continued as a research assistant at Institute of Computing Technology (ICT), until I decided to pursue my Ph.D. degree in Hong Kong.
+    <br><b>I am deeply grateful to Professors Xiaobing Feng and Fang Lv at ICT for their support during this anxious gap period, and I sincerely regret not being able to pursue my studies at UNSW.</b></li>
+    <li><b>Some Reflections</b>. People often say that a speck of dust in the era, when it falls on an individual, becomes a mountain. But I believe that <i>sometimes a small but firm conviction can carry one a very long way, even across that mountain</i>. So, please accept what can not be changed and strive to change what can be changed. Even these bleak and trying days will eventually become a valuable asset in one's life.</li>
   </ul>
 </div>
 
