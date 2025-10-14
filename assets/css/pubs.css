@@ -1,0 +1,12 @@
+.pubtab {
+  display: inline-block;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f7f7f7;
+  cursor: pointer;
+  font-size: 0.95rem;
+  margin-right: 8px;
+}
+.pubtab.active { background: #e6f5ef; border-color: #44b389; }
+#selected-pubs > ul, #full-pubs > ul { margin-top: 0.5rem; }

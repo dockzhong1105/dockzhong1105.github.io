@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/pubs.css' | relative_url }}">
+<script defer src="{{ '/assets/js/pubs-toggle.js' | relative_url }}"></script>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -37,53 +39,10 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
 # 📝 Publications 
 
-<!-- Publications toggle controls -->
-<div id="pubs-toggle" style="margin: 12px 0;">
-  <button id="btn-selected" class="pubtab active" aria-pressed="true">Selected</button>
+<div id="pubs-toggle" style="margin:12px 0;">
+  <button id="btn-selected" class="pubtab" aria-pressed="true">Selected</button>
   <button id="btn-full" class="pubtab" aria-pressed="false">Full</button>
 </div>
-
-<style>
-  .pubtab {
-    display:inline-block; padding:6px 12px; border:1px solid #ccc; border-radius:6px;
-    background:#f7f7f7; cursor:pointer; font-size:0.95rem; margin-right:8px
-  }
-  .pubtab.active { background:#e6f5ef; border-color:#44b389 }
-  /* 可选 小标题的间距更紧凑 */
-  #selected-pubs > ul, #full-pubs > ul { margin-top: 0.5rem }
-</style>
-
-<script>
-  // 纯前端切换 兼容 GitHub Pages
-  document.addEventListener("DOMContentLoaded", function () {
-    const btnSel = document.getElementById("btn-selected");
-    const btnFull = document.getElementById("btn-full");
-    const sel = document.getElementById("selected-pubs");
-    const full = document.getElementById("full-pubs");
-
-    function showSelected() {
-      sel.style.display = "";
-      full.style.display = "none";
-      btnSel.classList.add("active"); btnSel.setAttribute("aria-pressed", "true");
-      btnFull.classList.remove("active"); btnFull.setAttribute("aria-pressed", "false");
-      // 可选 更新地址片段 便于分享
-      if (history.replaceState) history.replaceState(null, "", "#selected");
-    }
-    function showFull() {
-      sel.style.display = "none";
-      full.style.display = "";
-      btnFull.classList.add("active"); btnFull.setAttribute("aria-pressed", "true");
-      btnSel.classList.remove("active"); btnSel.setAttribute("aria-pressed", "false");
-      if (history.replaceState) history.replaceState(null, "", "#full");
-    }
-
-    // 初始逻辑 读取地址片段 以“selected”为默认
-    if (location.hash === "#full") { showFull(); } else { showSelected(); }
-
-    btnSel.addEventListener("click", showSelected);
-    btnFull.addEventListener("click", showFull);
-  });
-</script>
 
 
 <div id="selected-pubs">
@@ -130,7 +89,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
     </li>
 
    <li>
-      <b>[NeurIPS &#39;25]</b> <a href="xxxxx"><b>IR-OptSet: An Optimization-Sensitive Dataset for Advancing LLM-Based IR Optimizer.</b></a><br>
+      <b>[NeurIPS &#39;25]</b> <a href="https://neurips.cc/virtual/2025/poster/121626"><b>IR-OptSet: An Optimization-Sensitive Dataset for Advancing LLM-Based IR Optimizer.</b></a><br>
       <span>Z. Yang, L. Qiu, F. Lv, <b>M. Zhong</b>,  Z. Chai, H. Zhou, H. Cui, X. Feng</span><br>
       <span style="color:#44b389">39th Annual Conference on Neural Information Processing Systems, 2025. (CORE A*)</span>
     </li>
@@ -142,13 +101,13 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
     </li>
 
     <li>
-      <b>[APSEC &#39;25]</b> <a href="xxxxx"><b>Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.</b></a><br>
+      <b>[APSEC &#39;25]</b> <a href="https://conf.researchr.org/details/apsec-2025/apsec-2025-early-research-achievements--era-/8/Towards-Function-Level-Correctness-Assessment-of-System-Software-with-LLMs-A-Case-St"><b>Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.</b></a><br>
       <span><b>M. Zhong</b>, X. Sun</span><br>
       <span style="color:#44b389">32nd Asia-Pacific Software Engineering Conference, 2025. (CORE C)</span>
     </li>
 
    <li>
-      <b>[ICOECAI &#39;25]</b> <a href="xxxxx"><b>Automating Target Description Processing for Efficient Compiler Backend Development.</b></a><br>
+      <b>[ICOECAI &#39;25]</b> <a href="xxxxx"><b>Automating Target Descriptions Processing for Efficient Compiler Backend Development.</b></a><br>
       <span>X. Sun, <b>M. Zhong</b>, L. Wang, F. Lv, X. He</span><br>
       <span style="color:#44b389">International Conference on Electrical, Control and Artificial Intelligence, 2025.</span>
     </li>
