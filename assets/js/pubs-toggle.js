@@ -23,3 +23,23 @@ document.addEventListener("DOMContentLoaded", function () {
   btnSel?.addEventListener("click", showSelected);
   btnFull?.addEventListener("click", showFull);
 });
+
+
+(function () {
+  function setupToggle(btnId, panelId, shownByDefault) {
+    const btn = document.getElementById(btnId);
+    const panel = document.getElementById(panelId);
+    if (!btn || !panel) return;
+    function apply(show) {
+      panel.style.display = show ? "" : "none";
+      btn.classList.toggle("active", show);
+      btn.setAttribute("aria-pressed", String(show));
+    }
+    apply(!!shownByDefault);
+    btn.addEventListener("click", () => {
+      const now = panel.style.display !== "none";
+      apply(!now);
+    });
+  }
+  setupToggle("btn-we-notes", "we-notes", false);
+})();
