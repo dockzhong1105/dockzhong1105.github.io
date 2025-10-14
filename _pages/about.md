@@ -137,9 +137,8 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
 
 # 🎖 Awards
-<!-- - *2022.9* First Class Academic Scholarship in Chinese Academy of Sciences.
-- *2021.12* Excellent Undergraduate Graduation Thesis in Beijing. -->
 - National Scholarship. 
+- Distinguished Undergraduate Graduation Thesis in Beijing.
 
 # 🌟 Miscellaneous
 - International English Language Testing System (IELTS): Overall 8.0.
