@@ -54,7 +54,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
       <li>
         <b>[CGO &#39;25]</b> <a href="https://dl.acm.org/doi/10.1145/3696443.3708931"><b>VEGA: Automatically Generating Compiler Backends Using a Pre-Trained Transformer Model.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, L. Wang, L. Qiu, Y. Wang, Y. Liu, H. Cui, X. Feng, J. Xue</span><br>
-        <span style="color:#44b389">ACM IEEE 23rd International Symposium on Code Generation and Optimization, 2025. (CORE A)</span>
+        <span style="color:#44b389">ACM/IEEE 23rd International Symposium on Code Generation and Optimization, 2025. (CORE A)</span>
       </li>
       <li>
         <b>[SANER &#39;25]</b> <a href="https://ieeexplore.ieee.org/abstract/document/10992492"><b>Boosting Large Language Models for System Software Retargeting: A Preliminary Study.</b></a><br>
@@ -79,7 +79,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
       <li>
         <b>[CGO &#39;25]</b> <a href="https://dl.acm.org/doi/10.1145/3696443.3708931"><b>VEGA: Automatically Generating Compiler Backends Using a Pre-Trained Transformer Model.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, L. Wang, L. Qiu, Y. Wang, Y. Liu, H. Cui, X. Feng, J. Xue</span><br>
-        <span style="color:#44b389">ACM IEEE 23rd International Symposium on Code Generation and Optimization, 2025. (CORE A)</span>
+        <span style="color:#44b389">ACM/IEEE 23rd International Symposium on Code Generation and Optimization, 2025. (CORE A)</span>
       </li>
       <li>
         <b>[SANER &#39;25]</b> <a href="https://ieeexplore.ieee.org/abstract/document/10992492"><b>Boosting Large Language Models for System Software Retargeting: A Preliminary Study.</b></a><br>
