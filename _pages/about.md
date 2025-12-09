@@ -47,19 +47,19 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
   <div id="selected-pubs">
     <ul>
       <li>
+        <b>[SANER &#39;26]</b> <a href="xxxxx"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
+        <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
+        <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
+      </li>
+      <li>
         <b>[TOSEM &#39;25]</b> <a href="https://dl.acm.org/doi/10.1145/3764585"><b>BePilot: An AI Programming Assistant for Compiler Backend Development.</b></a><br>
-        <span><b>M. Zhong</b>, X. Sun, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng</span><br>
+        <span><b>M. Zhong</b>,  F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng</span><br>
         <span style="color:#44b389">ACM Transactions on Software Engineering and Methodology, 2025. (CORE A*)</span>
       </li>
       <li>
         <b>[CGO &#39;25]</b> <a href="https://dl.acm.org/doi/10.1145/3696443.3708931"><b>VEGA: Automatically Generating Compiler Backends Using a Pre-Trained Transformer Model.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, L. Wang, L. Qiu, Y. Wang, Y. Liu, H. Cui, X. Feng, J. Xue</span><br>
         <span style="color:#44b389">ACM/IEEE 23rd International Symposium on Code Generation and Optimization, 2025. (CORE A)</span>
-      </li>
-      <li>
-        <b>[SANER &#39;25]</b> <a href="https://ieeexplore.ieee.org/abstract/document/10992492"><b>Boosting Large Language Models for System Software Retargeting: A Preliminary Study.</b></a><br>
-        <span><b>M. Zhong</b>, F. Lv, L. Wang, L. Qiu, H. Geng, H. Cui, X. Feng</span><br>
-        <span style="color:#44b389">IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering, 2025. (CORE A)</span>
       </li>
       <li>
         <b>[NeurIPS &#39;24]</b> <a href="https://neurips.cc/virtual/2024/poster/97455"><b>ComBack: A Versatile Dataset for Enhancing Compiler Backend Development Efficiency.</b></a><br>
@@ -74,6 +74,11 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
       <li>
         <b>[Pre-print]</b> <a href="http://arxiv.org/abs/2511.10921"><b>A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness.</b></a><br>
         <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
+      </li>
+      <li>
+        <b>[SANER &#39;26]</b> <a href="xxxxx"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
+        <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
+        <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
       </li>
       <li>
         <b>[TOSEM &#39;25]</b> <a href="https://dl.acm.org/doi/10.1145/3764585"><b>BePilot: An AI Programming Assistant for Compiler Backend Development.</b></a><br>
@@ -98,7 +103,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
       </li>
 
       <li>
-        <b>[ICONIP &#39;25]</b> <a href="xxxxx"><b>RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.</b></a><br>
+        <b>[ICONIP &#39;25]</b> <a href="https://www.springerprofessional.de/en/relopt-a-retriever-augmented-framework-for-optimizing-code-with-/51748354"><b>RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.</b></a><br>
         <span>L. Qiu, F. Lv, <b>M. Zhong</b>,  L. Wang, X. Feng</span><br>
         <span style="color:#44b389">32nd International Conference on Neural Information Processing, 2025. (CORE B)</span>
       </li>
@@ -163,4 +168,4 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
     </ul>
   </div>
 
-<a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_24/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
