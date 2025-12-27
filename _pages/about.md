@@ -47,7 +47,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
   <div id="selected-pubs">
     <ul>
       <li>
-        <b>[SANER &#39;26]</b> <a href="xxxxx"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
+        <b>[SANER &#39;26]</b> <a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
         <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
       </li>
@@ -76,7 +76,7 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
         <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
       </li>
       <li>
-        <b>[SANER &#39;26]</b> <a href="xxxxx"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
+        <b>[SANER &#39;26]</b> <a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
         <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
       </li>
@@ -168,4 +168,4 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
     </ul>
   </div>
 
-<a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_24/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_30/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
