@@ -45,7 +45,9 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
 
 
   <div id="selected-pubs">
-  <h3>Quantum Compilers</h3>
+  <h3 style="color:#2F6FD6">
+    Quantum Compilers
+  </h3>
   <ul>
     <li>
         <b>[ICCAD &#39;26]</b> <a href="http://arxiv.org/abs/2511.10921"><b>MERA:  Mid-Circuit-Measurement Error-Aware Compilation Framework for Quantum Circuits.</b></a><br>
@@ -53,7 +55,9 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
         <span style="color:#44b389">IEEE/ACM 45th International Conference on Computer-Aided Design, 2026. (CORE A)</span>
     </li>
   </ul>
-  <h3>Classical Compilers</h3>
+  <h3 style="color:#2F6FD6">
+    Classical Compilers
+  </h3>
     <ul>
       <li>
         <b>[SANER &#39;26]</b> <a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
