@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on several projects of LLMs for traditional compiler construction, and currently his research interests focus on quantum compilers.
+Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**. Previously, he worked on several projects of LLMs for classical compiler construction, and currently his research interests focus on quantum compilers (e.g., quantum compiler design, AI for quantum compilers).
 
 
 # 📖 Educations
@@ -45,6 +45,15 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
 
 
   <div id="selected-pubs">
+  <h3>Quantum Compilers</h3>
+  <ul>
+    <li>
+        <b>[ICCAD &#39;26]</b> <a href="http://arxiv.org/abs/2511.10921"><b>MERA:  Mid-Circuit-Measurement Error-Aware Compilation Framework for Quantum Circuits.</b></a><br>
+        <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
+        <span style="color:#44b389">IEEE/ACM 45th International Conference on Computer-Aided Design, 2026. (CORE A)</span>
+    </li>
+  </ul>
+  <h3>Classical Compilers</h3>
     <ul>
       <li>
         <b>[SANER &#39;26]</b> <a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
@@ -72,11 +81,29 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
   <div id="full-pubs" style="display:none;">
     <ul>
       <li>
-        <b>[Pre-print]</b> <a href="http://arxiv.org/abs/2511.10921"><b>A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness.</b></a><br>
-        <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
+        <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2607.04586"><b>QuTuner: Feature-and Learning-Guided Optimization Pass Tuning for Quantum Compilers.</b></a><br>
+        <span><b>M. Zhong</b>, X. Ren, J. Cheng, S. Li, Z. Liang</span><br>
       </li>
       <li>
-        <b>[SANER &#39;26]</b> <a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
+        <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2606.31833"><b>Lazy-Move Compilation for Neutral-Atom Quantum Computers via a Buffer-Relay Fabric.</b></a><br>
+        <span>C. Huang, J. Wang, Z. Zhang, <b>M. Zhong</b>, Z. Fu, Z. Liang, Y. Sun, D. Liu</span><br>
+      </li>
+      <li>
+        <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2602.18511"><b>Beyond Pass-by-Pass Optimization: Intent-Driven IR Optimization with Large Language Models.</b></a><br>
+        <span>L. Qiu, Z. Yang, F. Lv, <b>M. Zhong</b>, H. Cui, X. Feng</span><br>
+      </li>
+      <li>
+        <b>[ICCAD &#39;26]</b> <a href="http://arxiv.org/abs/2511.10921"><b>MERA:  Mid-Circuit-Measurement Error-Aware Compilation Framework for Quantum Circuits.</b></a><br>
+        <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
+        <span style="color:#44b389">IEEE/ACM 45th International Conference on Computer-Aided Design, 2026. (CORE A)</span>
+      </li>
+      <li>
+        <b>[ICS-W &#39;26]</b> <a href="https://dl.acm.org/doi/full/10.1145/3774895.3812193"><b>Towards Fully Automated Compiler Backend Generation with Multi-Agent Systems: How Far Are We?</b></a><br>
+        <span><b>M. Zhong</b>, L. Qiu, L. Wang, H. Geng, X. Sun, F. Lv</span><br>
+        <span style="color:#44b389">ACM 40th International Conference on Supercomputing - Workshops, 2026.</span>
+      </li>
+      <li>
+        <b>[SANER &#39;26]</b> <a href="https://ieeexplore.ieee.org/abstract/document/11576746"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
         <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
       </li>
@@ -109,13 +136,13 @@ Ming is a first-year Ph.D student at the Chinese University of Hong Kong (CUHK).
       </li>
 
       <li>
-        <b>[APSEC &#39;25]</b> <a href="https://conf.researchr.org/details/apsec-2025/apsec-2025-early-research-achievements--era-/8/Towards-Function-Level-Correctness-Assessment-of-System-Software-with-LLMs-A-Case-St"><b>Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.</b></a><br>
+        <b>[APSEC &#39;25]</b> <a href="https://ieeexplore.ieee.org/abstract/document/11396590"><b>Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.</b></a><br>
         <span><b>M. Zhong</b>, X. Sun</span><br>
         <span style="color:#44b389">32nd Asia-Pacific Software Engineering Conference, 2025. (CORE C)</span>
       </li>
 
     <li>
-        <b>[ICOECAI &#39;25]</b> <a href="xxxxx"><b>Automating Target Descriptions Processing for Efficient Compiler Backend Development.</b></a><br>
+        <b>[ICOECAI &#39;25]</b> <a href="https://ieeexplore.ieee.org/document/11335621"><b>Automating Target Descriptions Processing for Efficient Compiler Backend Development.</b></a><br>
         <span>X. Sun, <b>M. Zhong</b>, L. Wang, F. Lv, X. He</span><br>
         <span style="color:#44b389">International Conference on Electrical, Control and Artificial Intelligence, 2025.</span>
       </li>
