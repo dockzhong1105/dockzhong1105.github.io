@@ -50,6 +50,10 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
   </h3>
   <ul>
     <li>
+         <b>[ICSE &#39;27]</b> <a href="http://arxiv.org/abs/2511.10921"><b>QTUNER: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning.</b></a><br>
+        <span><b>M. Zhong</b>, X. Ren, J. Cheng, S. Li, Z. Liang</span><br>
+        <span style="color:#44b389">49th IEEE/ACM International Conference on Software Engineering, 2027. (CORE A*)</span>
+    </li>
         <b>[ICCAD &#39;26]</b> <a href="http://arxiv.org/abs/2511.10921"><b>MERA:  Mid-Circuit-Measurement Error-Aware Compilation Framework for Quantum Circuits.</b></a><br>
         <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
         <span style="color:#44b389">IEEE/ACM 45th International Conference on Computer-Aided Design, 2026. (CORE A)</span>
@@ -85,10 +89,6 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
   <div id="full-pubs" style="display:none;">
     <ul>
       <li>
-        <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2607.04586"><b>QuTuner: Feature-and Learning-Guided Optimization Pass Tuning for Quantum Compilers.</b></a><br>
-        <span><b>M. Zhong</b>, X. Ren, J. Cheng, S. Li, Z. Liang</span><br>
-      </li>
-      <li>
         <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2606.31833"><b>Lazy-Move Compilation for Neutral-Atom Quantum Computers via a Buffer-Relay Fabric.</b></a><br>
         <span>C. Huang, J. Wang, Z. Zhang, <b>M. Zhong</b>, Z. Fu, Z. Liang, Y. Sun, D. Liu</span><br>
       </li>
@@ -96,6 +96,11 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
         <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2602.18511"><b>Beyond Pass-by-Pass Optimization: Intent-Driven IR Optimization with Large Language Models.</b></a><br>
         <span>L. Qiu, Z. Yang, F. Lv, <b>M. Zhong</b>, H. Cui, X. Feng</span><br>
       </li>
+      <li>
+         <b>[ICSE &#39;27]</b> <a href="http://arxiv.org/abs/2511.10921"><b>QTUNER: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning.</b></a><br>
+        <span><b>M. Zhong</b>, X. Ren, J. Cheng, S. Li, Z. Liang</span><br>
+        <span style="color:#44b389">49th IEEE/ACM International Conference on Software Engineering, 2027. (CORE A*)</span>
+    </li>
       <li>
         <b>[ICCAD &#39;26]</b> <a href="http://arxiv.org/abs/2511.10921"><b>MERA:  Mid-Circuit-Measurement Error-Aware Compilation Framework for Quantum Circuits.</b></a><br>
         <span><b>M. Zhong</b>, Z. Zhang, X. Ren, C. Zhu, S. Niu, Z. Liang</span><br>
