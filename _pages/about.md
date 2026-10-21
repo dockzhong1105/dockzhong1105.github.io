@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**, spanning both classical and quantum compilers. Specifically, his research broadly covers compiler construction and optimization, with a particular interest in applying AI techniques to the design and optimization of compiler components, as well as developing effective compilers for different quantum computing platforms, including superconducting and neutral-atom systems.
+Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK). His research interests primarily focus on **compilers**, spanning both classical and quantum compilers. Specifically, his research broadly covers compiler construction and optimization, with a particular interest in applying AI techniques to the construction and optimization of compiler components, as well as designing effective compilers for different quantum computing platforms, including superconducting and neutral-atom systems.
 
 # 📖 Educations
 - *2025.08 - Now*, **The Chinese University of Hong Kong**, Hong Kong, SAR.
