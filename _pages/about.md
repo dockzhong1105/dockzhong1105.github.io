@@ -50,7 +50,7 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
   </h3>
   <ul>
     <li>
-         <b>[ICSE &#39;27]</b> <a href="http://arxiv.org/abs/2511.10921"><b>QTuner: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning.</b></a><br>
+         <b>[ICSE &#39;27]</b> <a href="https://arxiv.org/abs/2607.04586"><b>QTuner: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning.</b></a><br>
         <span><b>M. Zhong</b>, X. Ren, J. Cheng, S. Li, Z. Liang</span><br>
         <span style="color:#44b389">49th IEEE/ACM International Conference on Software Engineering, 2027. (CORE A*)</span>
     </li>
@@ -98,7 +98,7 @@ Ming is a second-year Ph.D student at the Chinese University of Hong Kong (CUHK)
         <span>L. Qiu, Z. Yang, F. Lv, <b>M. Zhong</b>, H. Cui, X. Feng</span><br>
       </li>
       <li>
-         <b>[ICSE &#39;27]</b> <a href="http://arxiv.org/abs/2511.10921"><b>QTuner: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning.</b></a><br>
+         <b>[ICSE &#39;27]</b> <a href="https://arxiv.org/abs/2607.04586"><b>QTuner: A Feature-Guided Adaptive Framework for Quantum-Compiler Optimization Pass Tuning.</b></a><br>
         <span><b>M. Zhong</b>, X. Ren, J. Cheng, S. Li, Z. Liang</span><br>
         <span style="color:#44b389">49th IEEE/ACM International Conference on Software Engineering, 2027. (CORE A*)</span>
     </li>
