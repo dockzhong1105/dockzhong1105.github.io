@@ -90,6 +90,10 @@ Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK
   <div id="full-pubs" style="display:none;">
     <ul>
       <li>
+        <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2610.29170"><b>Turning Quantum Compiler Configuration Selection Upside Down: A Top-Down Paradigm.</b></a><br>
+        <span><b>M. Zhong</b>, X. Ren, K. Zheng, Z. Zeng, S. Zheng, S. Li, Z. Liang</span><br>
+      </li>
+      <li>
         <b>[Pre-print]</b> <a href="https://arxiv.org/abs/2606.31833"><b>Lazy-Move Compilation for Neutral-Atom Quantum Computers via a Buffer-Relay Fabric.</b></a><br>
         <span>C. Huang, J. Wang, Z. Zhang, <b>M. Zhong</b>, Z. Fu, Z. Liang, Y. Sun, D. Liu</span><br>
       </li>
