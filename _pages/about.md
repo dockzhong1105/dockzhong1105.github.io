@@ -141,42 +141,26 @@ Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK
         <span><b>M. Zhong</b>, F. Lv, L. Wang, L. Qiu, H. Geng, H. Cui, X. Feng</span><br>
         <span style="color:#44b389">IEEE 32nd International Conference on Software Analysis, Evolution and Reengineering, 2025. (CORE A)</span>
       </li>
-
-    <li>
+      <li>
         <b>[NeurIPS &#39;25]</b> <a href="https://neurips.cc/virtual/2025/poster/121626"><b>IR-OptSet: An Optimization-Sensitive Dataset for Advancing LLM-Based IR Optimizer.</b></a><br>
         <span>Z. Yang, L. Qiu, F. Lv, <b>M. Zhong</b>,  Z. Chai, H. Zhou, H. Cui, X. Feng</span><br>
         <span style="color:#44b389">39th Annual Conference on Neural Information Processing Systems, 2025. (CORE A*)</span>
       </li>
-
       <li>
         <b>[ICONIP &#39;25]</b> <a href="https://www.springerprofessional.de/en/relopt-a-retriever-augmented-framework-for-optimizing-code-with-/51748354"><b>RELOPT: A Retriever-Augmented Framework for Optimizing Code with Long-range Dependencies.</b></a><br>
         <span>L. Qiu, F. Lv, <b>M. Zhong</b>,  L. Wang, X. Feng</span><br>
         <span style="color:#44b389">32nd International Conference on Neural Information Processing, 2025. (CORE B)</span>
-      </li>
-
-      <li>
-        <b>[APSEC &#39;25]</b> <a href="https://ieeexplore.ieee.org/abstract/document/11396590"><b>Towards Function-Level Correctness Assessment of System Software with LLMs: A Case Study.</b></a><br>
-        <span><b>M. Zhong</b>, X. Sun</span><br>
-        <span style="color:#44b389">32nd Asia-Pacific Software Engineering Conference, 2025. (CORE C)</span>
-      </li>
-
-    <li>
-        <b>[ICOECAI &#39;25]</b> <a href="https://ieeexplore.ieee.org/document/11335621"><b>Automating Target Descriptions Processing for Efficient Compiler Backend Development.</b></a><br>
-        <span>X. Sun, <b>M. Zhong</b>, L. Wang, F. Lv, X. He</span><br>
-        <span style="color:#44b389">International Conference on Electrical, Control and Artificial Intelligence, 2025.</span>
       </li>
       <li>
         <b>[NeurIPS &#39;24]</b> <a href="https://neurips.cc/virtual/2024/poster/97455"><b>ComBack: A Versatile Dataset for Enhancing Compiler Backend Development Efficiency.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, L. Wang, H. Geng, L. Qiu, H. Cui, X. Feng</span><br>
         <span style="color:#44b389">38th Annual Conference on Neural Information Processing Systems, 2024. (CORE A*)</span>
       </li>
-
       <li>
         <b>[ISSRE &#39;23]</b> <a href="https://ieeexplore.ieee.org/document/10301269"><b>OPTango: Multi-central Representation Learning against Innumerable Compiler Optimization for Binary Diffing.</b></a><br>
         <span>H. Geng, <b>M. Zhong</b>, P. Zhang, F. Lv, X. Feng</span><br>
         <span style="color:#44b389">IEEE 34rd International Symposium on Software Reliability Engineering, 2023. (CORE A)</span>
       </li>
-
       <li>
         <b>[JCST &#39;23]</b> <a href="https://dl.acm.org/doi/abs/10.1007/s11390-022-1919-x"><b>Automatic Target Description File Generation.</b></a><br>
         <span>H. Geng, F. Lv, <b>M. Zhong</b>, H. Cui, J. Xue, X. Feng</span><br>
