@@ -117,11 +117,6 @@ Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK
         <span style="color:#44b389">IEEE 44th International Conference on Computer Design, 2026. (CORE C)</span>
       </li>
       <li>
-        <b>[ICS-W &#39;26]</b> <a href="https://dl.acm.org/doi/full/10.1145/3774895.3812193"><b>Towards Fully Automated Compiler Backend Generation with Multi-Agent Systems: How Far Are We?</b></a><br>
-        <span><b>M. Zhong</b>, L. Qiu, L. Wang, H. Geng, X. Sun, F. Lv</span><br>
-        <span style="color:#44b389">ACM 40th International Conference on Supercomputing - Workshops, 2026.</span>
-      </li>
-      <li>
         <b>[SANER &#39;26]</b> <a href="https://ieeexplore.ieee.org/abstract/document/11576746"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
         <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
