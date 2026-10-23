@@ -114,7 +114,7 @@ Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK
       <li>
         <b>[ICCD &#39;26]</b> <a href="xxxxx"><b>LLM-Empowered Cross-SDK Tuning of Quantum Compiler Optimization Passes.</b></a><br>
         <span><b>M. Zhong</b>, Z. Liang</span><br>
-        <span><b>Invited Paper</b></span><br>
+        <span style="color:#8B6BA8"><b>Invited Paper</b></span><br>
         <span style="color:#44b389">IEEE 44th International Conference on Computer Design, 2026. (CORE C)</span>
       </li>
       <li>
