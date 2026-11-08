@@ -65,7 +65,7 @@ Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK
   </h3>
     <ul>
       <li>
-        <b>[SANER &#39;26]</b> <a href="https://conf.researchr.org/track/saner-2026/saner-2026-papers"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
+        <b>[SANER &#39;26]</b> <a href="https://ieeexplore.ieee.org/abstract/document/11576746"><b>A Multi-Modal Retrieval-Augmented Framework for Compiler Backend Generation with LLMs.</b></a><br>
         <span><b>M. Zhong</b>, F. Lv, H. Geng, X. Sun, L. Wang, L. Qiu,  H. Cui, X. Feng</span><br>
         <span style="color:#44b389">IEEE 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. (CORE A)</span>
       </li>
@@ -195,4 +195,4 @@ Ming is a second-year Ph.D. student at The Chinese University of Hong Kong (CUHK
     </ul>
   </div>
 
-<a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_40/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="http://s01.flagcounter.com/more/MshA"><img src="https://s01.flagcounter.com/count2/MshA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_48/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
